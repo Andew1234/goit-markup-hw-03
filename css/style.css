@@ -243,7 +243,7 @@ body {
   margin-right: 30px;
 }
 
-.work-type-img {
+.type-img {
   display: block;
   max-width: 100%;
 }
@@ -328,7 +328,7 @@ body {
 
 .contact-address.link {
   display: block;
-  margin-top: 9px;
+  margin-top: 0px;
   margin-bottom: 0px;
 
   color: var(--primary-background-color);
@@ -375,6 +375,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 8px;
+  margin-bottom: 50px;
 }
 
 .filter-btn:hover,
@@ -388,10 +389,6 @@ body {
 .main-portfolio {
   padding-top: 94px;
   padding-bottom: 94px;
-}
-
-.portfolio-container {
-  padding-top: 50px;
 }
 
 .portfolio-title {
